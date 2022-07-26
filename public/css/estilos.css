@@ -1,0 +1,32 @@
+body {
+    font-family: 'Rajdhani', sans-serif;
+    margin: 200px;
+
+}
+
+h1 {
+    color: #ec183f;
+    font-weight: bold 700;
+}
+
+.destaque {
+    width: 100%;
+}
+
+#lista {
+    font-style: italic;
+}
+
+footer {
+    text-align: center;
+    border-top: #ccc solid 1px;
+    padding: 20px;
+}
+
+footer a {
+    text-decoration: none;
+}
+
+footer img {
+    width: 32px;
+}
